@@ -2,7 +2,7 @@
 
 # Cases
 
-![AITool logo](https://github.com/NLP1502/CreatiVisBlend/main/pic/cases.png)
+![AITool logo](https://github.com/NLP1502/CreatiVisBlend/blob/main/pic/cases.png)
 
 # Limit
 
