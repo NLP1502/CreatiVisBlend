@@ -2,7 +2,15 @@
 
 # Cases
 
-![AITool logo](https://github.com/NLP1502/CreatiVisBlend/blob/main/pic/cases.png)
+![Caese](https://github.com/NLP1502/CreatiVisBlend/blob/main/pic/cases.png)
+
+# Scoring Criteria of Sketch
+
+Confidential until preprint version.
+
+# Scoring Criteria of Reference
+
+Confidential until preprint version.
 
 # Limit
 
